@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "小説 夏と罰 (上)",
+  "base_artist": "傘村トータ",
+  "createdAt": "2026-03-04T13:16:52.332064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小説 夏と罰 (上)",
+      "artist": "傘村トータ",
+      "has_synced": true,
+      "path": "select/01_小説_夏と罰_(上)_傘村トータ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小説 夏と罰 上",
+      "artist": "傘村トータ",
+      "has_synced": false,
+      "path": "select/pl_01_小説_夏と罰_上_傘村トータ.txt"
+    }
+  ]
+}
